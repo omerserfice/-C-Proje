@@ -1,0 +1,24 @@
+c:\users\omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.csprojResolveAssemblyReference.cache
+c:\users\omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.Properties.Resources.resources
+c:\users\omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.csproj.GenerateResource.Cache
+c:\users\omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmYeniMusteri.resources
+c:\users\omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmAdminGiris.resources
+c:\users\omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmAnaForm.resources
+c:\users\omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmOdalar.resources
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmMusteriler.resources
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmGelirGider.resources
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.Stoklar.resources
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay Çiçeği Pansiyon Uygulaması V.1.csproj.ResolveComReference.cache
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmRadyo.resources
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmGazete.resources
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmSifreGuncelle.resources
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Ay_Çiçeği_Pansiyon_Uygulaması_V._1.FrmMesajlar.resources
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Orange Hotel Uygulaması V.1.exe.config
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Orange Hotel Uygulaması V.1.exe
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\bin\Debug\Orange Hotel Uygulaması V.1.pdb
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Orange Hotel Uygulaması V.1.exe
+C:\Users\Omer\documents\visual studio 2017\Projects\Ay Çiçeği Pansiyon Uygulaması V.1\Ay Çiçeği Pansiyon Uygulaması V.1\obj\Debug\Orange Hotel Uygulaması V.1.pdb
